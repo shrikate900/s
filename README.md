@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋! I'm Shrikant Katekar </h1>
-
+I'm excited about learning new things and contributing to the science community.
 
 
 ### Analytics Tools
