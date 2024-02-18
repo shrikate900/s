@@ -22,3 +22,7 @@
 * **Data Visualization:** Seaborn and Matplotlib.
 
 * **Machine Learning Modeling:** Classification, Regression, Clusterization, Time Series and Neural Network.
+
+
+
+**<h2>♡ Thank you for taking the time ♡**
